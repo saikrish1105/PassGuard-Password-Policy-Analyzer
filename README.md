@@ -31,7 +31,7 @@ Many enterprises still rely on outdated password rules, like mandatory periodic 
 ### 1. Clone the repository
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/saikrish1105/PassGuard-Password-Policy-Analyzer.git>
 cd password_policy_analyzer
 ```
 
